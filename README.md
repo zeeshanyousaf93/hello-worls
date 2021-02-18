@@ -1,8 +1,3 @@
 ﻿# my-new-repository
-This is a line of text 
 
-This is an another line i added on GITHUB
-
-Another line added online GITHUB
-
-One more line added using GITHUB
+This is a test repository. we r using to explore this will relate the issue created
